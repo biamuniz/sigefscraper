@@ -1,16 +1,12 @@
 Dados
 | Coluna  |  Descrição  |
 | ------------------- | ------------------- |
-|  parcela_co |  Célula de conteúdo |
-|  rt	 |  Célula de conteúdo |
-art |  Célula de conteúdo |
-situacao_i |  Célula de conteúdo |
-codigo_imo	 |  Célula de conteúdo |
-data_submi	|  Célula de conteúdo |
-data_aprov	|  Célula de conteúdo |
-status	|  Célula de conteúdo |
-nome_area	|  Célula de conteúdo |
-registro_m	|  Célula de conteúdo |
-registro_d	|  Célula de conteúdo |
-municipio_	|  Célula de conteúdo |
-uf_id |  Célula de conteúdo |
+|  parcela_co |  Código da parcela |
+|  situacao_i |  Condição jurídica da área, que pode ser `Imóvel Registrado`, `Área Titulada não Registrada` ou `Área não Titulada` |
+|  codigo_imo	 |  Código do imóvel no Sistema Nacional de Cadastro Rural (SNCR). Este código está disponível no Certificado de Cadastro de Imóvel Rural (CCIR).|
+|  data_submi	|  Data de submissão |
+|  data_aprov	|  Data de aprovação |
+|  status	|  Célula de conteúdo |
+|  nome_area	|  Célula de conteúdo |
+|  municipio_	|  Código do município no IBGE |
+|  uf_id |  Código da unidade federativa no IBGE |
