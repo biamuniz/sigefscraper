@@ -13,4 +13,4 @@ Os arquivos utilizados estão dividos em duas pastas:
 ### Dúvidas, sugestões, comentários, feedbacks? 
 Pode me contatar por [e-mail](mailto:biancamuniz@usp.br) ou [twitter](https://twitter.com/biancamuniz__) :)
 
-Quer contribuir? Faça um **fork** e submeta um **pull request**!
+Quer contribuir? Abra uma **issue** e submeta um **pull request**!
