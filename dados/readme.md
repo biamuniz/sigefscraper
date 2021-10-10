@@ -14,3 +14,5 @@ Para deixar o arquivo menos pesado, filtrei, através do [QGIS](https://qgis.org
 |  nome_area	|  Como o imóvel é chamado (nome de uma fazenda, por exemplo) |
 |  municipio_	|  Código do município no IBGE |
 |  uf_id |  Código da unidade federativa no IBGE |
+
+**Disclaimer**: Os dados coletados são disponibilizados no **ambiente público** do Sistema de Gestão Fundiária após consulta. Nenhuma das informações extraídas estão ocultas no site.
