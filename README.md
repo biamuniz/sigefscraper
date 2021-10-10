@@ -5,12 +5,12 @@ Este repositório armazena os dados, códigos e outras informações sobre o **S
 Criar um programa que executa um processo de *ETL - Extract, Transform, Load*. Essas 3 etapas são a base para programas que lidam com dados e são encontradas em diversos tipos de programas. O **SigefScraper** é um programa que, a partir dos atributos de arquivos shapefiles do Sistema de Gestão Fundiária (Sigef) do Instituto Nacional de Colonização e Reforma Agrária (Incra), extrai do sistema o nome e o documento dos detentores das parcelas presentes no arquivo. 
 
 ### Navegando pelo repositório
-Os arquivos utilizados estão dividos em duas pastas:
-1. [Dados](https://github.com/biamuniz/sigefscraper/tree/main/dados): contém os dados e seu dicionário;
-2. [Códigos](https://github.com/biamuniz/sigefscraper/tree/main/codigo): notebooks e códigos em Python.
+Os arquivos utilizados estão dividos em duas pastas: [dados](https://github.com/biamuniz/sigefscraper/tree/main/dados) (com os dados e seu dicionário) e [códigos](https://github.com/biamuniz/sigefscraper/tree/main/codigo) (contém notebooks e exemplo de uso/output).
 
 
 ### Dúvidas, sugestões, comentários, feedbacks? 
 Pode me contatar por [e-mail](mailto:biancamuniz@usp.br) ou [twitter](https://twitter.com/biancamuniz__) :)
 
-Quer contribuir? Abra uma **issue** e submeta um **pull request**!
+Quer contribuir diretamente aqui no GitHub? 
+* Faça o fork do [projeto](https://github.com/biamuniz/sigefscraper/), crie uma *branch* (ramificação) para a sua modificação, faça o *comitt* e submeta um *pull request*!
+* Você também pode abrir uma *issue* com a sua sugestão ou comentário.
