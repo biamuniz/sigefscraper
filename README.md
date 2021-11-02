@@ -14,3 +14,8 @@ Pode me contatar por [e-mail](mailto:biancamuniz@usp.br) ou [twitter](https://tw
 Quer contribuir diretamente aqui no GitHub? 
 * Faça o fork do [projeto](https://github.com/biamuniz/sigefscraper/), crie uma *branch* (ramificação) para a sua modificação, faça o *comitt* e submeta um *pull request*!
 * Você também pode abrir uma *issue* com a sua sugestão ou comentário.
+
+### To-do (ideias de contribuição)
+- [ ] Limpar a string documento
+- [ ] Adicionar o nome e o documento no dataframe
+- [ ] Baixar o memorial descritivo da parcela
