@@ -16,6 +16,5 @@ Quer contribuir diretamente aqui no GitHub?
 * Você também pode abrir uma *issue* com a sua sugestão ou comentário.
 
 ### To-do (ideias de contribuição)
-- [ ] Limpar a string documento
 - [ ] Adicionar o nome e o documento no dataframe
 - [ ] Baixar o memorial descritivo da parcela
